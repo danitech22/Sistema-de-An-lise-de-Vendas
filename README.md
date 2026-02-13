@@ -12,7 +12,7 @@ O sistema processa os dados e gera indicadores de desempenho relacionados a **ve
 - Calcula o faturamento total por cliente  
 - Calcula a quantidade de compras por cliente  
 - Calcula o faturamento total por dia  
-- Calcula o volume de vendas (número de transações) por dia  
+- Calcula o volume de vendas (número de transações) por dia
 
 Identifica automaticamente:
 
