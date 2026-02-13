@@ -1,47 +1,22 @@
-📊 Sistema de Análise de Vendas em Python
+📊 Sistema de Análise de Vendas da Empresa
 
-Este projeto consiste em um sistema de análise de vendas desenvolvido em Python, com foco em organização de dados, agregações e geração de indicadores de desempenho a partir de registros de vendas.
+Este projeto é um programa em Python que realiza a análise completa de vendas de uma empresa, utilizando registros de transações para gerar indicadores de desempenho comercial.
 
-O programa processa uma lista de vendas e produz um resumo completo do desempenho comercial, semelhante à lógica utilizada em dashboards corporativos.
-
-
-
-
-🎯 Objetivo do Projeto
-
-O objetivo deste projeto é praticar e consolidar conceitos fundamentais de análise de dados com Python, incluindo:
-
-Lógica de programação
-
-Estruturas de dados (listas e dicionários)
-
-Acumulação e agregação de informações
-
-Análise de desempenho por diferentes dimensões
-
-Organização e leitura de código
-
-Geração de indicadores de negócio
-
-
+O sistema processa os dados de vendas e extrai informações estratégicas sobre vendedores, clientes e dias de faturamento, exibindo os resultados diretamente no terminal.
 
 ⚙️ Funcionalidades
 
-O sistema realiza automaticamente as seguintes análises:
+Calcula o faturamento total por vendedor
 
+Calcula o faturamento total por cliente
 
+Identifica a quantidade de compras por cliente
 
-📊 Total de faturamento por vendedor
+Calcula o faturamento total por dia
 
-🧍 Total de faturamento por cliente
+Calcula o volume de vendas (número de transações) por dia
 
-🔁 Quantidade de compras realizadas por cliente
-
-💰 Faturamento total por dia
-
-📦 Volume de vendas (quantidade de transações) por dia
-
-Além disso, identifica:
+Identifica:
 
 🏆 Vendedor com maior faturamento
 
@@ -53,18 +28,10 @@ Além disso, identifica:
 
 📦 Dia com maior volume de vendas
 
-Todos os resultados são exibidos de forma clara no terminal.
-
-
+Todos os resultados são exibidos de forma organizada no terminal.
 
 🛠️ Tecnologias Utilizadas
 
 Python 3
 
-Não são utilizadas bibliotecas externas — todo o processamento é feito com recursos nativos da linguagem.
-
-▶️ Como Executar o Projeto
-
-Certifique-se de ter o Python 3 instalado em sua máquina
-
-Clone o repositório:
+O projeto utiliza apenas recursos nativos da linguagem, sem bibliotecas externas.
