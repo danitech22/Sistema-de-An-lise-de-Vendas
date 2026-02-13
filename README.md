@@ -1,37 +1,41 @@
-📊 Sistema de Análise de Vendas da Empresa
+# 📊 Sistema de Análise de Vendas da Empresa
 
-Este projeto é um programa em Python que realiza a análise completa de vendas de uma empresa, utilizando registros de transações para gerar indicadores de desempenho comercial.
+Este projeto é um programa em Python que realiza a **análise de vendas de uma empresa** a partir de registros de transações.
 
-O sistema processa os dados de vendas e extrai informações estratégicas sobre vendedores, clientes e dias de faturamento, exibindo os resultados diretamente no terminal.
+O sistema processa os dados e gera indicadores de desempenho relacionados a **vendedores, clientes e datas**, exibindo os resultados diretamente no terminal.
 
-⚙️ Funcionalidades
+---
 
-Calcula o faturamento total por vendedor
+## ⚙️ Funcionalidades
 
-Calcula o faturamento total por cliente
+- Calcula o faturamento total por vendedor  
+- Calcula o faturamento total por cliente  
+- Calcula a quantidade de compras por cliente  
+- Calcula o faturamento total por dia  
+- Calcula o volume de vendas (número de transações) por dia  
 
-Identifica a quantidade de compras por cliente
+Identifica automaticamente:
 
-Calcula o faturamento total por dia
+- 🏆 Vendedor com maior faturamento  
+- 🏆 Cliente com maior gasto total  
+- 🔁 Cliente mais recorrente  
+- 💰 Dia com maior faturamento  
+- 📦 Dia com maior volume de vendas  
 
-Calcula o volume de vendas (número de transações) por dia
+---
 
-Identifica:
+## 🛠️ Tecnologias Utilizadas
 
-🏆 Vendedor com maior faturamento
+- Python 3  
 
-🏆 Cliente com maior gasto total
+O projeto utiliza apenas recursos nativos da linguagem.
 
-🔁 Cliente mais recorrente
+---
 
-💰 Dia com maior faturamento
+## ▶️ Como Executar o Projeto
 
-📦 Dia com maior volume de vendas
+1. Certifique-se de ter o **Python 3** instalado em sua máquina  
+2. Faça o clone do repositório:
 
-Todos os resultados são exibidos de forma organizada no terminal.
-
-🛠️ Tecnologias Utilizadas
-
-Python 3
-
-O projeto utiliza apenas recursos nativos da linguagem, sem bibliotecas externas.
+```bash
+git clone <URL_DO_REPOSITORIO>
