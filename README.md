@@ -4,6 +4,9 @@ Este projeto consiste em um sistema de análise de vendas desenvolvido em Python
 
 O programa processa uma lista de vendas e produz um resumo completo do desempenho comercial, semelhante à lógica utilizada em dashboards corporativos.
 
+
+
+
 🎯 Objetivo do Projeto
 
 O objetivo deste projeto é praticar e consolidar conceitos fundamentais de análise de dados com Python, incluindo:
@@ -20,9 +23,13 @@ Organização e leitura de código
 
 Geração de indicadores de negócio
 
+
+
 ⚙️ Funcionalidades
 
 O sistema realiza automaticamente as seguintes análises:
+
+
 
 📊 Total de faturamento por vendedor
 
@@ -47,6 +54,8 @@ Além disso, identifica:
 📦 Dia com maior volume de vendas
 
 Todos os resultados são exibidos de forma clara no terminal.
+
+
 
 🛠️ Tecnologias Utilizadas
 
